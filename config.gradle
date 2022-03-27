@@ -4,5 +4,6 @@ ext{
 	]
 	dependencies=[
 		rxjava:"xxxx:1.0.0"
+		retrofit: "xxxx:1.7.6"
 	]
 }
