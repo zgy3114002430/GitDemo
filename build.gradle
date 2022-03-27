@@ -1,0 +1,7 @@
+ext{
+	android=[
+		tarSdk:30
+		minSdk:21
+		compileSdk:30
+	]
+}
